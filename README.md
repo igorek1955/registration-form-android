@@ -1,4 +1,4 @@
-#Registration Form App
+#Registration Form App#
 simple registration form for Android written in Kotlin
 Functionality:
 - collecting data from user
