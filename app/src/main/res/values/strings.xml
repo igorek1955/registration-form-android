@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Registration Form</string>
+    <string name="text_view_registration">Registration</string>
+    <string name="edit_text_first_name">First Name</string>
+    <string name="edit_text_last_name">Last Name</string>
+    <string name="edit_text_email_address">Email Address</string>
+    <string name="edit_text_phone_number">Phone Number</string>
+    <string name="checkbox_subscribe_to_newsletter">Subscribe to newsletter</string>
+    <string name="button_register">Register</string>
+    <string name="button_send_sms">Send sms</string>
+    <string name="button_send_email">Send email</string>
+    <string name="text_view_registration_confirmation">Registration Confirmation</string>
+    <string name="edit_text_password">Password</string>
+</resources>

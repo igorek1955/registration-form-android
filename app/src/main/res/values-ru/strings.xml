@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Форма Регистрации</string>
+    <string name="text_view_registration">Регистрация</string>
+    <string name="edit_text_first_name">Имя</string>
+    <string name="edit_text_last_name">Фамилия</string>
+    <string name="edit_text_email_address">Email</string>
+    <string name="edit_text_phone_number">Номер телефона</string>
+    <string name="checkbox_subscribe_to_newsletter">Подписаться на рассылку</string>
+    <string name="button_register">Зарегистрироваться</string>
+    <string name="button_send_sms">Отправить СМС</string>
+    <string name="button_send_email">Отправить на почту</string>
+    <string name="text_view_registration_confirmation">Подтверждение регистрации</string>
+    <string name="edit_text_password">Пароль</string>
+</resources>
